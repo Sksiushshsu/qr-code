@@ -1,0 +1,36 @@
+body{
+    margin: auto;
+    background-color: hsl(212, 45%, 89%);
+    padding: 10px;   
+}
+.main{
+
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    border: 30px ;
+    border-radius: 10%;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+    height: 375px;
+    width: 375px;
+}
+
+#bold_text{
+    font-weight: 700;
+    text-align: center;
+}
+
+#light_text{
+    font-weight: 400;
+    text-align: center;
+}
+
+.attribution{
+    bottom: 1px;
+}
